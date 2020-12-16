@@ -2,11 +2,11 @@
 
 # Content
 
-###1-web-scraping-trustpilot (notebooks and scraped datasets).
-###2-data-cleaning-preprocessing (notebooks and datasets)
-###3-modelling (notebooks and datasets)
-###4-Sentiment-analysis-using-Textblob (notebooks and dataset)
-###5-presentation (presentation slides)
+### 1-web-scraping-trustpilot (notebooks and scraped datasets).
+### 2-data-cleaning-preprocessing (notebooks and datasets)
+### 3-modelling (notebooks and datasets)
+### 4-Sentiment-analysis-using-Textblob (notebooks and dataset)
+### 5-presentation (presentation slides)
 
 ## Background
 
