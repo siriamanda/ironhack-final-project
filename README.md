@@ -94,16 +94,19 @@ Balancing data using oversampling techniques. Finetuning the model.
 ## Resources
 
 MonkeyLearn (2020) https://monkeylearn.com/sentiment-analysis/
+
 Ryan Cranfill (2016) https://ryan-cranfill.github.io/sentiment-pipeline-sklearn-2/
 
 Code for visualisation borrowed from:
 
 G Ranjith kumar (2020) https://www.kaggle.com/granjithkumar/nlp-with-women-clothing-reviews
+
 Shirell da Villa (2019) https://www.kaggle.com/shirellamosi/sentiment-analysis-nlp
 
 Code for preprocessing borrowed from:
 
 Kamil Mysiak (2019) https://towardsdatascience.com/preprocessing-text-data-using-python-576206753c28
+
 Rachel Koenig (2019) https://towardsdatascience.com/nlp-for-beginners-cleaning-preprocessing-text-data-ae8e306bef0f
 
 Code for model pipeline borrowed from:
