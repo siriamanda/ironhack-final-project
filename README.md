@@ -1,13 +1,5 @@
 # ironhack-final-project
 
-# Content
-
-### 1-web-scraping-trustpilot (notebooks and scraped datasets).
-### 2-data-cleaning-preprocessing (notebooks and datasets)
-### 3-modelling (notebooks and datasets)
-### 4-Sentiment-analysis-using-Textblob (notebooks and dataset)
-### 5-presentation (presentation slides)
-
 ## Background
 
 Sentiment analysis is a Natural Language Processing technique concerned with detecting favourable and unfavourable opinions in textual data. It can be used to answer questions about people’s feeling towards a certain topic.
@@ -37,6 +29,14 @@ https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 Data source 2: Trustpilot reviews
 
 Used web-scraping to extract customer reviews from three fashion E-Commerce organisations on Trustpilot.
+
+# Content
+
+1-web-scraping-trustpilot (notebooks and scraped datasets).
+2-data-cleaning-preprocessing (notebooks and datasets)
+3-modelling (notebooks and datasets)
+4-Sentiment-analysis-using-Textblob (notebooks and dataset)
+5-presentation (presentation slides)
 
 ## Workflow
 
