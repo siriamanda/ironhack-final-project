@@ -18,6 +18,7 @@ I wanted to explore the use of sentiment analysis in organisations and how senti
 ### Hypothesis
 
 HO: Naive Bayes Classification is not a good method for analysing customer reviews
+
 HA: Naive Bayes Classification is a good method for analysing customer reviews
 
 ## Data
@@ -76,6 +77,8 @@ Creation of the model pipeline:
 - TFID-Transformer
 - MultinomialNB()
 
+Code borrowed from Suyash Pratap Singh (2020)
+
 Model comparison: LogisticRegression(), DecisionTreeClassifier(), RandomForestClassifier() and svm.SVC()
 
 ### 5. Textblob analysis
@@ -92,11 +95,18 @@ While Naive Bayes prove to be able to predict sentiment of labelled data sources
 Balancing data using oversampling techniques. Finetuning the model.
 
 
-## Sources
+## Resources
 
 MonkeyLearn (2020) https://monkeylearn.com/sentiment-analysis/
+
 Ryan Cranfill (2016) https://ryan-cranfill.github.io/sentiment-pipeline-sklearn-2/
+
 G Ranjith kumar (2020) https://www.kaggle.com/granjithkumar/nlp-with-women-clothing-reviews
+
 Kamil Mysiak (2019) https://towardsdatascience.com/preprocessing-text-data-using-python-576206753c28
+
 Rachel Koenig (2019) https://towardsdatascience.com/nlp-for-beginners-cleaning-preprocessing-text-data-ae8e306bef0f
+
 Shirell da Villa (2019) https://www.kaggle.com/shirellamosi/sentiment-analysis-nlp
+
+Suyash Pratap Singh (2020) https://www.kaggle.com/suyashpratapsingh/eda-and-sentiment-analysis
