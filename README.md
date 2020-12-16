@@ -48,8 +48,9 @@ Used web-scraping to extract customer reviews from three fashion E-Commerce orga
 
 Extracted 48,000 customer reviews from Trustpilot using BeautifulSoup. Saved dataframes in three csv files. 
 
-### 2. Data cleaning
+### 2. Data exploration/cleaning
 
+- Visualisations (Code borrowed from G Ranjith kumar (2020) and Shirell da Villa (2019))
 - Drop null values
 - Convert reviews to lowercase
 - Remove: Stopwords, punctuations and numbers
@@ -59,6 +60,8 @@ Extracted 48,000 customer reviews from Trustpilot using BeautifulSoup. Saved dat
 - Tokenization
 - Part of speech tagging
 - Lemmatization
+
+Code borrowed from Kamil Mysiak (2019) and Rachel Koenig (2019)
 
 ### 4. Modelling
 
@@ -88,3 +91,12 @@ While Naive Bayes prove to be able to predict sentiment of labelled data sources
 
 Balancing data using oversampling techniques. Finetuning the model.
 
+
+## Sources
+
+MonkeyLearn (2020) https://monkeylearn.com/sentiment-analysis/
+Ryan Cranfill (2016) https://ryan-cranfill.github.io/sentiment-pipeline-sklearn-2/
+G Ranjith kumar (2020) https://www.kaggle.com/granjithkumar/nlp-with-women-clothing-reviews
+Kamil Mysiak (2019) https://towardsdatascience.com/preprocessing-text-data-using-python-576206753c28
+Rachel Koenig (2019) https://towardsdatascience.com/nlp-for-beginners-cleaning-preprocessing-text-data-ae8e306bef0f
+Shirell da Villa (2019) https://www.kaggle.com/shirellamosi/sentiment-analysis-nlp
