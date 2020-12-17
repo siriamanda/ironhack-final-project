@@ -8,7 +8,7 @@ Due to the large volumes of textual data produced on the Internet, sentiment ana
 
 There are two major approaches to sentiment analysis: 
 
-- Rule based: in which a dictionary is used for automatic classification of sentiment 
+- Rule based: in which a dictionary is used for classification of sentiment 
 - Feature based: in which machine learning models are trained based on labelled data
 
 In this project I have tried both approaches but focused on a machine learning approach using Naive Bayes Classification. 
