@@ -77,7 +77,7 @@ Creation of the model pipeline:
 - TFID-Transformer
 - MultinomialNB()
 
-Suyash Pratap Singh (2020)
+(Suyash Pratap Singh (2020))
 
 Model comparison: LogisticRegression(), DecisionTreeClassifier(), RandomForestClassifier() and svm.SVC()
 
@@ -95,7 +95,7 @@ While Naive Bayes prove to be able to predict sentiment of labelled data sources
 Balancing data using oversampling techniques. Finetuning the model.
 
 
-## Resources
+## References
 
 MonkeyLearn (2020) https://monkeylearn.com/sentiment-analysis/
 
