@@ -51,16 +51,18 @@ Extracted 48,000 customer reviews from Trustpilot using BeautifulSoup. Saved dat
 
 ### 2. Data exploration/cleaning
 
-- Visualisations
+- Visualisations (G Ranjith kumar (2020), Shirell da Villa (2019))
 - Drop null values
 - Convert reviews to lowercase
 - Remove: Stopwords, punctuations and numbers
 
-### 3. Preprocessing
+### 3. Preprocessing 
 
 - Tokenization
 - Part of speech tagging
 - Lemmatization
+
+(Kamil Mysiak (2019) and Rachel Koenig (2019))
 
 ### 4. Modelling
 
@@ -74,6 +76,8 @@ Creation of the model pipeline:
 - CountVectorizer
 - TFID-Transformer
 - MultinomialNB()
+
+Suyash Pratap Singh (2020)
 
 Model comparison: LogisticRegression(), DecisionTreeClassifier(), RandomForestClassifier() and svm.SVC()
 
@@ -97,19 +101,19 @@ MonkeyLearn (2020) https://monkeylearn.com/sentiment-analysis/
 
 Ryan Cranfill (2016) https://ryan-cranfill.github.io/sentiment-pipeline-sklearn-2/
 
-Code for visualisation borrowed from:
+Code for visualisations:
 
 G Ranjith kumar (2020) https://www.kaggle.com/granjithkumar/nlp-with-women-clothing-reviews
 
 Shirell da Villa (2019) https://www.kaggle.com/shirellamosi/sentiment-analysis-nlp
 
-Code for preprocessing borrowed from:
+Code for preprocessing:
 
 Kamil Mysiak (2019) https://towardsdatascience.com/preprocessing-text-data-using-python-576206753c28
 
 Rachel Koenig (2019) https://towardsdatascience.com/nlp-for-beginners-cleaning-preprocessing-text-data-ae8e306bef0f
 
-Code for model pipeline borrowed from:
+Code for model pipeline:
 
 Suyash Pratap Singh (2020) https://www.kaggle.com/suyashpratapsingh/eda-and-sentiment-analysis
 
